@@ -1,0 +1,1 @@
+User input of random min and max using javascript day 2 of learning JS 
