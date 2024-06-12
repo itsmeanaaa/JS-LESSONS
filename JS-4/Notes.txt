@@ -1,0 +1,4 @@
+Simple lighting bulb that has two button
+
+// with user input
+if the user is 18 above he or she can turn on the bulb if not it will turn off
